@@ -11,4 +11,4 @@
 
  I made this public because I always have so much to learn and would love guidance in any way. If you made it this far, thank you and hope that you find my findings a bit insightful.
 
- And if you plan to make contributions and edits, know that they are all welcome and hope to be at a level to do the same for others. Thank you!
+ And if you plan to make contributions and edits, know that they are all welcome and that I hope to be at a level to do the same for others one day. Thank you!
